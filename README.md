@@ -1,5 +1,7 @@
 # docs
 
+vercel deployement
+
 ## Build Setup
 
 ```bash
